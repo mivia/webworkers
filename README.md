@@ -1,0 +1,2 @@
+# webworkers
+Benchmarking javascript webworkers
